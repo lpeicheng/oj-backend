@@ -1,8 +1,8 @@
 # OJ 判题项目
 
 > 作者：paopao https://github.com/lpeicheng/oj-backend
+> 
 > 要先使用启动本项目先下载oj-codesandbox项目，并启动，然后启动本项目
-[toc]
 
 ### 主流框架 & 特性
 
